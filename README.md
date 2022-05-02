@@ -1,6 +1,6 @@
-# WP BLOCKS PLUGIN BOILERPLATE
+# Team Members Block
 
-A boilerplate for developing React-powered Wordpress blocks using shared components.
+A simple block written with ESNext standard and JSX support
 
 
 ## TECH and TOOLS
